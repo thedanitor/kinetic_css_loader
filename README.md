@@ -6,7 +6,8 @@ This project is from the Day 23 code along video from Udemy's 50 projects in 50 
 
 ### Overall Impression
 
-
+The more exposure I get to @keyframes the more I realize that animating elements is not that difficult. This loader was easy to make and has given me some ideas for making loading screens of my own. 
 
 ### Things Learned
 
+* Can make a triangle in CSS by making an element height/width 0, adding a border, and then giving one edge of the border a different color.
